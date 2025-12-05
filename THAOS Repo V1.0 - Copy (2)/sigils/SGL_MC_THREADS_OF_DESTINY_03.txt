@@ -1,0 +1,34 @@
+
+### SIGIL GENERATION PROMPT  
+**Myth Cycle:** Threads of Destiny  
+**Sigil Name:** The Three Weavers
+
+Create a **high-complexity SVG-ready sigil** in the THAOS master style:
+
+- Intricate knotwork forming the outer boundary  
+- Inner rings structured around thematic geometry matching the Myth Cycle  
+- Three layers of embedded runic script (outer / middle / core)  
+- A recognizable central glyph expressing the essence of **The Three Weavers**  
+- Subtle asymmetry and mirroring to reflect mythic duality  
+- Heavy use of sacred curves, angled quill-lines, and deep symmetry
+
+**Rendering Requirements**  
+- Black-on-transparent linework  
+- No shading, no gradients  
+- Clean strokes suitable for vectorization  
+- Include negative-space motifs tied to the cycle’s archetypal symbolism
+
+**Symbolic Directives for This Sigil**  
+- Express The Three Weavers as a primordial archetype  
+- Encode mythic tension (creation vs dissolution / memory vs forgetting / boundary vs threshold depending on cycle)  
+- Use cycle-aligned runes:  
+    • *Primordial Dawn:* spirals, seeds, radiance  
+    • *Titan Fables:* monolithic forms, weight, pressure  
+    • *Veil & Void:* emptiness, thresholds, thin lines, negative space  
+    • *Ember & Ash:* heat fracture patterns, rising curves  
+    • *Tides of Memory:* flowing sigils, wave arcs  
+    • *War of Ink & Stone:* chiseling glyphs, calligraphic strokes  
+    • *Chorus of Winds:* harmonics, arcs, spirals  
+    • *Threads of Destiny:* braids, interwoven lines, branching points
+
+The sigil should feel ancient, sacred, and technical—equal parts myth and diagram.

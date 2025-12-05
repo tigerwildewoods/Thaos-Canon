@@ -1,0 +1,59 @@
+{
+  "Fractured Dominions": [
+    0,
+    4,
+    5,
+    8,
+    11,
+    17
+  ],
+  "Deeproot Expanse": [
+    3,
+    7,
+    8,
+    15
+  ],
+  "Mirror-Tide Basin": [
+    3,
+    4,
+    10,
+    13,
+    17
+  ],
+  "Verdant Pulse Biome": [
+    3,
+    5,
+    7,
+    11,
+    15
+  ],
+  "Volcanic Crownlands": [
+    3,
+    4,
+    5,
+    7,
+    10,
+    11,
+    15,
+    17
+  ],
+  "Aetherwake Stratum": [
+    3,
+    5,
+    10,
+    11,
+    13,
+    15,
+    17
+  ],
+  "Pale Frontier": [
+    4,
+    10,
+    12,
+    15,
+    16
+  ],
+  "Ravenous Wilds": [
+    7
+  ]
+}
