@@ -1,0 +1,78 @@
+{
+  "name": "This document explains the structure purpose and usage of the file",
+  "aliases": [],
+  "class": "",
+  "subclass": "",
+  "lineage": "",
+  "origin": {
+    "plane": "",
+    "era": "",
+    "creation_event": "",
+    "myth_source": ""
+  },
+  "region": "",
+  "habitat": "",
+  "magic_affinity": [],
+  "myth_cycle": "",
+  "taxonomy_tags": [],
+  "temperament": "",
+  "emotional_signature": {
+    "core": "",
+    "secondary": [],
+    "behavioral_influence": ""
+  },
+  "threat_rating": "low",
+  "ecology": {
+    "diet": "",
+    "role": "",
+    "environmental_interaction": "",
+    "symbiotic_relations": []
+  },
+  "behavior": {
+    "patterns": [],
+    "social_structure": "",
+    "predatory_profile": "",
+    "intelligence": "",
+    "communication": ""
+  },
+  "abilities": {
+    "primary": [],
+    "secondary": [],
+    "mythic": [],
+    "forbidden": []
+  },
+  "symbolism": {
+    "archetypes": [],
+    "associations": [],
+    "omen_value": ""
+  },
+  "description": "This document explains the structure, purpose, and usage of the file\nTHAOS_CATEGORIZED.txt. Use this file as a reference after a memory wipe\nto understand what the categorized codex contains and how it was generated.",
+  "visual_notes": "",
+  "sigil_id": "",
+  "relations": {
+    "predators": [],
+    "prey": [],
+    "allies": [],
+    "enemies": [],
+    "mythic_links": [
+      "This document explains the structure purpose and usage of the file participates in symbolic or narrative cycles that bind it to other entities across epochs."
+    ]
+  },
+  "metadata": {
+    "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+    "version": "v0.1",
+    "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+    "resolved_from": [
+      "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt"
+    ]
+  },
+  "mythic_profile": {
+    "emotional_signature": "This document explains the structure purpose and usage of the file embodies an archetypal emotional resonance tied to its nature, expressed as a unique psychic pressure felt by attuned beings.",
+    "symbolism": {
+      "cosmic": "This document explains the structure purpose and usage of the file symbolizes a primordial force within the THAOS myth-cycle, reflecting patterns of creation, decay, or transformation.",
+      "cultural": "In regional folklore, This document explains the structure purpose and usage of the file serves as a metaphor for a recurring societal theme such as vigilance, hubris, persistence, or hidden danger."
+    },
+    "narrative_role": "This document explains the structure purpose and usage of the file occupies a mythic role as a test, omen, guardian, or disruptor within larger THAOS narrative arcs.",
+    "emergent_archetype": "This document explains the structure purpose and usage of the file corresponds to a cross-myth archetype that manifests across species, cycles, and magical epochs."
+  }
+}
