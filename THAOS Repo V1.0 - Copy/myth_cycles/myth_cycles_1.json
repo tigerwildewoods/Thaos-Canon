@@ -1,0 +1,33 @@
+{
+  "Cycle_of_First_Fire": {
+    "theme": "Awakening of agency from inert existence.",
+    "stages": [
+      "Ignition: Spark arises in the Void-Seed.",
+      "Fracture: Light divides into many wills.",
+      "Conquest of Night: First conflicts of identity.",
+      "Cinderfall: Consequence and scattering.",
+      "Resurge: Renewal through ash memory."
+    ],
+    "anchor_beings": [
+      "Ember Sovereign",
+      "Ash-Walker",
+      "Volucanth"
+    ],
+    "recurrences": "Appears in volcanic cultures, war-gods, rebirth myths."
+  },
+  "Cycle_of_Returning_Stars": {
+    "theme": "Patterns collapsing and restoring across epochs.",
+    "stages": [
+      "Drift",
+      "Loss",
+      "Hunt",
+      "Binding",
+      "Homecoming"
+    ],
+    "anchor_beings": [
+      "Star-Hounds",
+      "Skytrackers"
+    ],
+    "recurrences": "Used in navigational rites and funerary sky-prayers."
+  }
+}

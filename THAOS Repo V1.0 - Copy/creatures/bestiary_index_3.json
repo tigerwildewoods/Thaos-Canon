@@ -1,0 +1,433 @@
+[
+  {
+    "name": "2",
+    "filename": "creatures/2.json",
+    "threat_rating": "low",
+    "magic_affinity": [
+      "arc"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt"
+      ]
+    }
+  },
+  {
+    "name": "34",
+    "filename": "creatures/34.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "arc",
+      "light",
+      "shadow",
+      "void",
+      "stone",
+      "metal"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "4",
+    "filename": "creatures/4.json",
+    "threat_rating": "low",
+    "magic_affinity": [
+      "arc",
+      "frost",
+      "ice",
+      "life",
+      "metal"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "Adventure Hooks  World Use Frequently involved in local conflicts quests ancient",
+    "filename": "creatures/adventure_hooks__world_use_frequently_involved_in_local_conf.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "flora",
+      "aether",
+      "arc",
+      "fire",
+      "frost",
+      "ice",
+      "light",
+      "shadow",
+      "void",
+      "spirit",
+      "life",
+      "death",
+      "wind",
+      "stone",
+      "earth",
+      "water",
+      "metal",
+      "chaos"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "Adventure Hooks  World Use They may act as guides to astral citadels heralds of",
+    "filename": "creatures/adventure_hooks__world_use_they_may_act_as_guides_to_astral_.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "ice",
+      "void",
+      "spirit",
+      "wind",
+      "stone",
+      "earth",
+      "chaos"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "Civilized Heartlands  EMF Bestiary Humans of Thaos Physical Description A richly (8)",
+    "filename": "creatures/civilized_heartlands__emf_bestiary_humans_of_thaos_physical_.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "flora",
+      "aether",
+      "arc",
+      "fire",
+      "frost",
+      "ice",
+      "electric",
+      "light",
+      "shadow",
+      "void",
+      "spirit",
+      "life",
+      "wind",
+      "stone",
+      "earth",
+      "water",
+      "metal",
+      "psychic",
+      "chaos",
+      "order"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "CIVILIZED HEARTLANDS ARCANE CODEX  EXPANDED EDITION Arcane Lore  Magical Systems",
+    "filename": "creatures/civilized_heartlands_arcane_codex__expanded_edition_arcane_l.json",
+    "threat_rating": "low",
+    "magic_affinity": [
+      "arc"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt"
+      ]
+    }
+  },
+  {
+    "name": "Culture  Social Structure Hybrids rarely possess unified cultures instead they f",
+    "filename": "creatures/culture__social_structure_hybrids_rarely_possess_unified_cul.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "verdant",
+      "flora",
+      "arc",
+      "fire",
+      "ice",
+      "light",
+      "shadow",
+      "void",
+      "spirit",
+      "life",
+      "wind",
+      "stone",
+      "earth",
+      "water",
+      "metal",
+      "psychic",
+      "chaos",
+      "order"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "Culture  Social Structure This species interacts with its environment through co (7)",
+    "filename": "creatures/culture__social_structure_this_species_interacts_with_its_en.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "arc",
+      "frost",
+      "electric",
+      "light",
+      "shadow",
+      "void",
+      "life",
+      "stone",
+      "metal"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt"
+      ]
+    }
+  },
+  {
+    "name": "Feywild Courts  EMF Bestiary Luminara Dryads Physical Description A richly detai",
+    "filename": "creatures/feywild_courts__emf_bestiary_luminara_dryads_physical_descri.json",
+    "threat_rating": "low",
+    "magic_affinity": [
+      "light"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt"
+      ]
+    }
+  },
+  {
+    "name": "If you'd like I can continue with Species 459 in this exact format",
+    "filename": "creatures/if_youd_like_i_can_continue_with_species_459_in_this_exact_f.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "aether",
+      "arc",
+      "fire",
+      "ice",
+      "light",
+      "shadow",
+      "void",
+      "spirit",
+      "life",
+      "death",
+      "wind",
+      "stone",
+      "earth",
+      "water",
+      "metal",
+      "chaos"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "Over centuries these simple sparks evolved into proto-academic traditions",
+    "filename": "creatures/over_centuries_these_simple_sparks_evolved_into_proto-academ.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "flora",
+      "aether",
+      "arc",
+      "fire",
+      "frost",
+      "ice",
+      "electric",
+      "light",
+      "shadow",
+      "void",
+      "spirit",
+      "life",
+      "wind",
+      "stone",
+      "earth",
+      "water",
+      "metal",
+      "order"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt"
+      ]
+    }
+  },
+  {
+    "name": "Recreate the categorized codex after a memory wipe",
+    "filename": "creatures/recreate_the_categorized_codex_after_a_memory_wipe.json",
+    "threat_rating": "low",
+    "magic_affinity": [],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt"
+      ]
+    }
+  },
+  {
+    "name": "Rival clans clash over a newly discovered Ironheart Forge capable of producing l",
+    "filename": "creatures/rival_clans_clash_over_a_newly_discovered_ironheart_forge_ca.json",
+    "threat_rating": "low",
+    "magic_affinity": [
+      "aether",
+      "arc",
+      "light",
+      "shadow",
+      "wind",
+      "stone",
+      "earth",
+      "metal"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "THAOSCATEGORIZED",
+    "filename": "creatures/thaoscategorized.json",
+    "threat_rating": "low",
+    "magic_affinity": [],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt"
+      ]
+    }
+  },
+  {
+    "name": "Their relationships with neighboring species shape survival strategies hierarchi",
+    "filename": "creatures/their_relationships_with_neighboring_species_shape_survival_.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "flora",
+      "aether",
+      "arc",
+      "fire",
+      "frost",
+      "ice",
+      "light",
+      "shadow",
+      "void",
+      "wind",
+      "stone",
+      "earth",
+      "water",
+      "metal",
+      "chaos"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED.txt"
+      ]
+    }
+  },
+  {
+    "name": "This document explains the structure purpose and usage of the file",
+    "filename": "creatures/this_document_explains_the_structure_purpose_and_usage_of_th.json",
+    "threat_rating": "low",
+    "magic_affinity": [],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_CATEGORIZED_REFERENCE.txt"
+      ]
+    }
+  },
+  {
+    "name": "Water Elementals  Full EMF entry placeholder ready for expansion",
+    "filename": "creatures/water_elementals__full_emf_entry_placeholder_ready_for_expan.json",
+    "threat_rating": "high",
+    "magic_affinity": [
+      "verdant",
+      "aether",
+      "arc",
+      "fire",
+      "frost",
+      "ice",
+      "electric",
+      "light",
+      "shadow",
+      "void",
+      "spirit",
+      "life",
+      "death",
+      "wind",
+      "stone",
+      "earth",
+      "water",
+      "metal",
+      "psychic",
+      "chaos",
+      "order"
+    ],
+    "metadata": {
+      "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "version": "v0.1",
+      "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+      "resolved_from": [
+        "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt"
+      ]
+    }
+  }
+]

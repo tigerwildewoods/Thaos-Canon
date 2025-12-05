@@ -1,0 +1,68 @@
+{
+  "name": "Feywild Courts  EMF Bestiary Luminara Dryads Physical Description A richly detai",
+  "aliases": [],
+  "class": "",
+  "subclass": "",
+  "lineage": "",
+  "origin": {
+    "plane": "",
+    "era": "",
+    "creation_event": "",
+    "myth_source": ""
+  },
+  "region": "",
+  "habitat": "",
+  "magic_affinity": [
+    "light"
+  ],
+  "myth_cycle": "",
+  "taxonomy_tags": [],
+  "temperament": "",
+  "emotional_signature": {
+    "core": "",
+    "secondary": [],
+    "behavioral_influence": ""
+  },
+  "threat_rating": "low",
+  "ecology": {
+    "diet": "",
+    "role": "",
+    "environmental_interaction": "",
+    "symbiotic_relations": []
+  },
+  "behavior": {
+    "patterns": [],
+    "social_structure": "",
+    "predatory_profile": "",
+    "intelligence": "",
+    "communication": ""
+  },
+  "abilities": {
+    "primary": [],
+    "secondary": [],
+    "mythic": [],
+    "forbidden": []
+  },
+  "symbolism": {
+    "archetypes": [],
+    "associations": [],
+    "omen_value": ""
+  },
+  "description": "Feywild Courts — EMF Bestiary Luminara Dryads Physical Description: A richly detailed creature of the region, possessing a distinctive silhouette, vivid color palette, and biologically infused magical markers. Textures include micro-grain surfaces, subtle luminance variations, and region-specific environmental adaptations. Typically viewed in a three-quarter portrait angle for clarity, highlighting anatomical traits and signature features.",
+  "visual_notes": "",
+  "sigil_id": "",
+  "relations": {
+    "predators": [],
+    "prey": [],
+    "allies": [],
+    "enemies": []
+  },
+  "metadata": {
+    "source": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+    "version": "v0.1",
+    "dataset_origin": "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt",
+    "resolved_from": [
+      "/mnt/data/thaos_extracted/THAOS-main/THAOS_COMBINED_RESOLVED/data/THAOS_MASTER_COMBINED.txt"
+    ]
+  }
+}
